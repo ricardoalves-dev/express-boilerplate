@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ricardoalves-dev/express-boilerplate#readme",
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
   }
 }
